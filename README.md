@@ -5,9 +5,7 @@
 **Smarter Scheduling. Zero Chaos. Seamless Queues.**
 
 
-
-
-\
+![QueueLess Cloud Logo](./QueueLessCloud.png)
 
 
 **QueueLess Cloud** is an open-source, cloud-native, multi-tenant SaaS platform designed to modernize appointment scheduling, queue management, and resource allocation across service-driven organizations.
