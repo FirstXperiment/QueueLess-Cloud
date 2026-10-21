@@ -46,7 +46,7 @@ This checklist reflects the current state of the repository. A checked item mean
 - [ ] CI/CD workflows
 - [ ] Deployment and operational documentation
 
-See the [development roadmap](#-development-roadmap) for the implementation sequence.
+See the [development planning documentation](docs/development/README.md) for the implementation sequence.
 
 ## 🌍 The Problem
 
@@ -524,6 +524,8 @@ Not every environment needs to be provisioned during the initial development pha
 ---
 
 ## 🗺️ Development Roadmap
+
+The detailed, living implementation plan is maintained in [`docs/development/README.md`](docs/development/README.md). The checklist below provides a short overview of the planned phases.
 
 ### Phase 1 — Engineering Foundation
 
